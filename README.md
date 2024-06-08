@@ -28,9 +28,11 @@
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" />
   </a>
 </div>
-<strong>
- [![@subhabhatta’s Holopin board](https://holopin.me/@subhabhatta#)](https://holopin.io/@subhabhatta#)
-</strong>
+
+<strong>Holopin badges</strong>
+
+[![@subhabhatta's Holopin board](https://holopin.me/subhabhatta)](https://holopin.io/subhabhatta)
+
 
 <h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
 <br/>
