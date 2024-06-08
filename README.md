@@ -56,12 +56,6 @@
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
 <br>
 
-<strong>Holopin badges</strong>
-
-[![@subhabhatta's Holopin board](https://www.holopin.io/@subhabhatta#(https://holopin.io/@subhabhatta#)
-
-<br/><br/>
-
 <hr/>
 
 <br/>
