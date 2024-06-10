@@ -39,7 +39,10 @@
 </h3>
 
 <div align="center">
- 
+  
+ ## <picture><img src = "https://github.com/ChinmayKaitade/ChinmayKaitade/blob/main/about_me.gif" width = 50px></picture> *About Me*
+<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" >
+
 - 👋 Hi, I’m Subhadaya Bhatta
 - 👀 I’m interested in football and cricket.
 - 🌱 I’m currently learning at Triyog High School
