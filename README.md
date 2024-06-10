@@ -107,7 +107,7 @@
 
 ## 🏆 GitHub Trophies
 
-![](https://github-profile-trophy.vercel.app/?username=chinmaykaitade&theme=dark&no-frame=true&no-bg=false&margin-w=4)
+![](https://github-profile-trophy.vercel.app/?username=SubhaBhatta&theme=dark&no-frame=true&no-bg=false&margin-w=4)
 
 
 <h3 align="center">
