@@ -105,9 +105,17 @@
   <img width=325 align="center" src="https://github-readme-stats-salesp07.vercel.app/api/top-langs/?username=SubhaBhatta&hide=HTML&langs_count=8&layout=compact&theme=react&border_radius=10&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats" alt="top langs" />
 </div>
 
+## 🏆 GitHub Trophies
+
+![](https://github-profile-trophy.vercel.app/?username=chinmaykaitade&theme=dark&no-frame=true&no-bg=false&margin-w=4)
+
+
 <h3 align="center">
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png">
 </h3>
+
+<img src="https://raw.githubusercontent.com/SubhaBhatta/SubhaBhatta/output/snake.svg" alt="Snake animation" />
+
 
 ## <b>✍️ Random Dev Quote</b>
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
