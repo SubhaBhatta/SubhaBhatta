@@ -127,6 +127,10 @@
 
 <div align="center">
 
+<p align="center">
+     <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
+</p>
+
 ### Made By ❤️ Subhadaya Bhatta © Copyright. All Rights Reserved @2024.
 
 </div>
