@@ -114,8 +114,6 @@
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png">
 </h3>
 
-<img src="" alt="Snake animation" />
-
 
 ## <b>✍️ Random Dev Quote</b>
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
