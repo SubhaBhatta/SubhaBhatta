@@ -114,7 +114,7 @@
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png">
 </h3>
 
-<img src="snake.yml" alt="Snake animation" />
+<img src="" alt="Snake animation" />
 
 
 ## <b>✍️ Random Dev Quote</b>
