@@ -88,7 +88,7 @@
 <br/>
 <div align="center">
     <img src="https://skillicons.dev/icons?i=vscode,github,figma,git" />
-    <img src="https://skillicons.dev/icons?i=python,html,css,QB64" /><br>
+    <img src="https://skillicons.dev/icons?i=python,html,css,js" /><br>
 </div>
 
 <br/>
@@ -104,6 +104,8 @@
   <br/>
   <img width=325 align="center" src="https://github-readme-stats-salesp07.vercel.app/api/top-langs/?username=SubhaBhatta&hide=HTML&langs_count=8&layout=compact&theme=react&border_radius=10&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats" alt="top langs" />
 </div>
+
+[![Subha's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=SubhaBhatta)](https://github.com/SubhaBhatta/github-readme-activity-graph)
 
 ## 🏆 GitHub Trophies
 
