@@ -19,7 +19,7 @@
 </h3>
 
 <p align="center">
-  <a href="https://github.com/kogutstt2"><img src="https://readme-typing-svg.herokuapp.com/?lines=Python;HTML;CSS;QBasics&font=Pacifico&center=true&width=650&height=120&color=58a6ff&vCenter=true&size=45%22"></a>
+  <a href="https://github.com/kogutstt2"><img src="https://readme-typing-svg.herokuapp.com/?lines=Python;HTML;CSS;QBasics;JavaScript&font=Pacifico&center=true&width=650&height=120&color=58a6ff&vCenter=true&size=45%22"></a>
 </p>
 
 <h3 align="center">
@@ -46,7 +46,7 @@
 - 👋 Hi, I’m Subhadaya Bhatta
 - 👀 I’m interested in football and cricket.
 - 🌱 I’m currently learning at Triyog High School
-- 💞️ I’m looking to learn coding. I use languages such as Python,QBasics,HTML,CSS and so on.
+- 💞️ I’m looking to learn coding. I use languages such as Python,QBasics,HTML,CSS,JavaScript and so on.
 - 📫 How to reach me (https://github.com/SubhaBhatta/PersonalPortfolio)
 - 😄 Pronouns:He 
 - ⚡ Fun fact:I am good at every thing.
