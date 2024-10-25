@@ -47,7 +47,7 @@
 - 👀 I’m interested in football and cricket.
 - 🌱 I’m currently learning at Triyog High School
 - 💞️ I’m looking to learn coding. I use languages such as Python,QBasics,HTML,CSS,JavaScript and so on.
-- 📫 https://subhabhatta.github.io/Personal-Portfolio/Personal-Portfolio/index.html#about
+- 📫 https://subhabhatta.github.io/Personal-Portfolio/Personal-Portfolio/index.html
 - 😄 Pronouns:He 
 - ⚡ Fun fact:I am good at every thing.
  </div>
