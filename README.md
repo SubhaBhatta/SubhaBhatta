@@ -99,10 +99,10 @@
 <h2 align="center">⚡ Stats ⚡</h2>
 <br>
 <div align=center>
-  <img width=390 src="https://github-readme-streak-stats-salesp07.vercel.app/?user=SubhaBhatta&count_private=true&theme=react&border_radius=10" alt="streak stats"/>
-  <img width=390 src="https://github-readme-stats-salesp07.vercel.app/api?username=SubhaBhatta&count_private=true&show_icons=true&theme=react&rank_icon=github&border_radius=10" alt="readme stats" />
+  <img width=390 src="https://github-readme-streak-stats.herokuapp.com/?user=SubhaBhatta&theme=vue-dark&hide_border=true" alt="streak stats"/>
+  <img width=390 src="https://github-readme-stats.vercel.app/api?username=SubhaBhatta&theme=vue-dark&show_icons=true&hide_border=true&count_private=false" alt="readme stats" />
   <br/>
-  <img width=325 align="center" src="https://github-readme-stats-salesp07.vercel.app/api/top-langs/?username=SubhaBhatta&hide=HTML&langs_count=8&layout=compact&theme=react&border_radius=10&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats" alt="top langs" />
+  <img width=325 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SubhaBhatta&theme=vue-dark&show_icons=true&hide_border=true&layout=compact" alt="top langs" />
 </div>
 
 [![Subha's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=SubhaBhatta)](https://github.com/SubhaBhatta/github-readme-activity-graph)
