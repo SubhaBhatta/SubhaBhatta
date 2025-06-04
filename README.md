@@ -46,7 +46,7 @@
 - 👋 Hi, I’m Subhadaya Bhatta
 - 👀 I’m interested in football and cricket.
 - 🌱 I’m currently learning at Triyog High School
-- 💞️ I’m looking to learn coding. I use languages such as Python,QBasics,HTML,CSS,JavaScript and so on.
+- 💞️ I’m looking to learn coding. I work with React Js and Tailwind Css. I have knowledge about Python, HTML, CSS, JavaScript, React, etc.  
 - 📫 https://subhabhatta.github.io/Personal-Portfolio/Personal-Portfolio/index.html
 - 😄 Pronouns:He 
 - ⚡ Fun fact:I am good at every thing.
@@ -87,8 +87,8 @@
 <img src="https://media.giphy.com/media/TEnXkcsHrP4YedChhA/giphy.gif" width="200" height="200" frameBorder="0" class="giphy-embed" allowFullScreen></img></p>
 <br/>
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=vscode,github,figma,git" />
-    <img src="https://skillicons.dev/icons?i=python,html,css,js" /><br>
+    <img src="https://skillicons.dev/icons?i=js,html,css,react,vscode,git,figma,tailwind,vite,npm,git" />
+    <br>
 </div>
 
 <br/>
