@@ -19,7 +19,7 @@
 </h3>
 
 <p align="center">
-  <a href="https://github.com/kogutstt2"><img src="https://readme-typing-svg.herokuapp.com/?lines=Python;HTML;CSS;QBasics;JavaScript&font=Pacifico&center=true&width=650&height=120&color=58a6ff&vCenter=true&size=45%22"></a>
+  <a href="https://github.com/kogutstt2"><img src="https://readme-typing-svg.herokuapp.com/?lines=Python;React;JavaScript&font=Pacifico&center=true&width=650&height=120&color=58a6ff&vCenter=true&size=45%22"></a>
 </p>
 
 <h3 align="center">
@@ -30,9 +30,6 @@
 
 <br/>
 
-<p align="center">
-  <img src="animated.gif" align="center" width="90%" />
-</p>
 
 <h3 align="center">
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png">
@@ -47,7 +44,6 @@
 - 👀 I’m interested in football and cricket.
 - 🌱 I’m currently learning at Triyog High School
 - 💞️ I’m looking to learn coding. I work with React Js and Tailwind Css. I have knowledge about Python, HTML, CSS, JavaScript, React, etc.  
-- 📫 https://subhabhatta.github.io/Personal-Portfolio/Personal-Portfolio/index.html
 - 😄 Pronouns:He 
 - ⚡ Fun fact:I am good at every thing.
  </div>
